@@ -15,7 +15,7 @@ public class ShareRest {
 	
 	public String srCalc() {
 		
-		result = "몫 : "+(firstNum/secondNum)+" "+"나머지 : "+(firstNum%secondNum);
+		result = "몫 : "+(firstNum/secondNum)+"  나머지 : "+(firstNum%secondNum);
 		return result;
 	}
 	
